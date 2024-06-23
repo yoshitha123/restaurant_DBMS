@@ -1,0 +1,101 @@
+id,first_name,last_name,date_of_birth,gender,position,hire_date,salary
+1,Ranique,Wrotchford,20-01-2023,F,Head Chef,11-07-2023,15598
+2,Gael,Hurd,18-01-2023,F,Floor Manager,13-04-2023,9784
+3,Greg,Maysor,01-10-2023,M,Supervisor,28-05-2023,21853
+4,Vincent,Hayne,06-06-2023,M,Waiter,16-02-2023,59431
+5,Maddi,Hearthfield,17-02-2023,F,Waiter,05-10-2023,41860
+6,Ki,Spyby,19-11-2023,F, Front desk manager,23-07-2023,80932
+7,Stacie,McKelloch,26-11-2023,F,Assistant Chef,17-08-2023,18938
+8,Benedetto,Marishenko,23-07-2023,M, Expeditor,01-01-2023,51406
+9,Hendrika,Wittke,11-02-2023,F, Assistant Manager,12-08-2023,79022
+10,Gabriele,Andrey,08-05-2023,M, Expeditor,14-10-2023,92358
+11,Marga,Sorsbie,27-06-2023,F, Expeditor,15-10-2023,67361
+12,Banky,Pillifant,23-06-2023,M,Waiter,04-09-2023,1938
+13,Brooke,Troker,07-08-2023,M, Assistant Manager,06-10-2023,46449
+14,Ennis,Blaze,03-12-2023,M,Waiter,17-05-2023,98393
+15,Mariette,Woodfin,05-10-2023,F,Surveyor,31-08-2023,26001
+16,Bess,Tipper,16-06-2023,F,Estimator,25-06-2023,60802
+17,Lemar,Figure,08-04-2023,M,Head Chef,17-02-2023,39381
+18,Karine,Felton,07-08-2023,F,Waiter,28-11-2023,87515
+19,Joli,Radley,11-08-2023,F,Estimator,23-07-2023,26132
+20,Bernelle,Eskell,22-08-2023,F,Supervisor,15-04-2023,11231
+21,Jarrid,Hardware,10-02-2023,M,Cashier,19-08-2023,17224
+22,Irvine,Sima,02-10-2023,M, Assistant Manager,27-08-2023,7606
+23,Boony,Legan,17-09-2023,M,Head Chef,18-06-2023,65104
+24,Rina,Lothean,17-01-2023,F,Cashier,29-03-2023,8715
+25,Kalli,Guillon,31-03-2023,F,Waiter,13-01-2023,67411
+26,Gayler,Doby,20-07-2023,M,Head Chef,16-06-2023,99038
+27,Gabie,Pauer,30-09-2023,M,Estimator,15-07-2023,43002
+28,Isadore,Metzel,23-04-2023,M, Assistant Manager,17-01-2023,59123
+29,Wildon,Hitcham,04-11-2023,M,Cashier,19-02-2023,59842
+30,Dorey,Lanston,11-02-2023,M, Assistant Manager,02-03-2023,72731
+31,Nonnah,Potteridge,04-05-2023,F,Floor Manager,26-03-2023,21846
+32,Faustine,Rabbage,09-11-2023,F,Waiter,14-10-2023,28328
+33,Cyrill,Strand,04-02-2023,M,Supervisor,11-07-2023,74754
+34,Audrye,Padmore,24-04-2023,F,Surveyor,25-09-2023,84854
+35,Milzie,Foyle,21-10-2023,F,Cashier,15-06-2023,59607
+36,Sandye,Leward,19-03-2023,F, Assistant Manager,02-10-2023,76808
+37,Abeu,Osinin,23-10-2023,M,Waiter,27-07-2023,47734
+38,Deanne,Camus,09-06-2023,F,Waiter,01-11-2023,10140
+39,Rebe,Martino,22-06-2023,F,Assistant Chef,09-04-2023,59469
+40,Eada,Bindley,06-03-2023,F,Estimator,11-02-2023,99691
+41,Adena,Gerald,02-03-2023,F, Front desk manager,28-04-2023,55821
+42,Feodor,Mabb,01-09-2023,M,Cashier,11-06-2023,20118
+43,Barnard,Pettiward,18-08-2023,M,Waiter,26-11-2023,73605
+44,Huey,Seneschal,13-07-2023,M, Assistant Manager,26-01-2023,51037
+45,Alix,Gravie,11-08-2023,M, Assistant Manager,11-03-2023,82616
+46,Lorri,Marlor,01-02-2023,F,Surveyor,17-10-2023,39561
+47,Tova,Tomkies,13-02-2023,F,Floor Manager,30-06-2023,98156
+48,Antonius,Grosier,29-11-2023,M,Surveyor,19-07-2023,57826
+49,Bord,Portam,16-06-2023,M, Assistant Manager,10-09-2023,61628
+50,Lionello,Chatburn,11-01-2023,M, Expeditor,09-06-2023,73660
+51,Niles,Eard,17-10-2023,M,Head Chef,20-09-2023,85412
+52,Tamera,Shackel,29-04-2023,F, Front desk manager,07-06-2023,95070
+53,Irina,Cunnow,10-09-2023,F,Floor Manager,19-06-2023,92888
+54,Christina,Lindback,15-02-2023,F,Estimator,23-01-2023,60647
+55,Mufinella,Ellingsworth,28-03-2023,F,Floor Manager,09-06-2023,99826
+56,Wandis,Braffington,25-05-2023,F,Supervisor,05-10-2023,55376
+57,Darlene,Braidman,27-07-2023,F, Assistant Manager,02-08-2023,91828
+58,Kamila,Tink,23-05-2023,F,Surveyor,11-05-2023,44786
+59,Iain,Samsonsen,25-07-2023,M,Floor Manager,13-11-2023,31984
+60,Penrod,Shurey,17-07-2023,M,Estimator,19-06-2023,43205
+61,Hy,Elkin,16-11-2023,M,Estimator,16-10-2023,36823
+62,Rebecca,Tinkham,15-08-2023,F,Waiter,18-02-2023,8899
+63,Dal,Piatti,05-03-2023,M,Head Chef,22-06-2023,61877
+64,Chariot,Crampton,07-04-2023,M,Cashier,05-05-2023,86356
+65,Rochella,Bhar,05-09-2023,F,Estimator,21-03-2023,84368
+66,Atlante,Whitehorn,31-05-2023,F, Assistant Manager,25-08-2023,3937
+67,Darrelle,Waddilove,30-11-2023,F,Cashier,11-08-2023,30770
+68,Merv,Baszkiewicz,26-09-2023,M,Assistant Chef,09-07-2023,85057
+69,Ree,Mattingly,02-04-2023,F,Estimator,03-05-2023,82065
+70,Fergus,Vearncombe,04-12-2023,M,Supervisor,16-11-2023,90180
+71,Jeffry,Nellis,19-09-2023,M,Estimator,23-10-2023,97539
+72,Everett,Heilds,08-01-2023,M,Estimator,22-01-2023,37170
+73,Lorenzo,Eynon,08-02-2023,M,Floor Manager,29-09-2023,12268
+74,Margit,Benediktsson,02-07-2023,F,Waiter,11-04-2023,45325
+75,Esra,Ferrige,05-07-2023,M,Waiter,15-06-2023,10455
+76,Willey,Guilloneau,02-10-2023,M,Supervisor,19-04-2023,48611
+77,Aristotle,Itzkovsky,28-03-2023,M,Assistant Chef,06-04-2023,68528
+78,Alvan,Koop,05-08-2023,M,Assistant Chef,22-04-2023,31990
+79,Marilee,Bownde,24-11-2023,F,Estimator,15-09-2023,13538
+80,Noll,Mynett,04-03-2023,M, Expeditor,18-10-2023,3832
+81,Juline,Scollan,04-06-2023,F,Waiter,09-10-2023,83196
+82,Stephanus,Littlepage,15-10-2023,M, Front desk manager,27-04-2023,61074
+83,Judas,Mish,15-05-2023,M,Waiter,27-05-2023,57404
+84,Almeda,Storrar,28-03-2023,F,Supervisor,26-07-2023,426
+85,Dorris,Kordt,13-10-2023,F,Floor Manager,09-10-2023,58165
+86,Donelle,Himsworth,08-02-2023,F,Head Chef,14-01-2023,3038
+87,Melloney,Delgardo,24-03-2023,F,Cashier,15-01-2023,87453
+88,Bendick,Edgington,29-05-2023,M, Front desk manager,05-01-2023,87491
+89,Russ,Wycliffe,29-06-2023,M,Surveyor,22-06-2023,36374
+90,Carmelle,Vayro,29-07-2023,F,Assistant Chef,09-06-2023,43387
+91,Lenna,Sharpus,05-05-2023,F,Waiter,31-10-2023,89319
+92,Maddy,Hollingshead,21-10-2023,M,Cashier,07-10-2023,2897
+93,Terra,Prozescky,30-07-2023,F,Head Chef,09-06-2023,59284
+94,Hinze,Sprague,13-02-2023,M, Front desk manager,28-11-2023,52741
+95,Gaven,Denver,04-05-2023,M, Front desk manager,13-06-2023,33391
+96,Mabelle,Lechelle,09-05-2023,F, Assistant Manager,01-03-2023,3581
+97,Opalina,Roughan,04-10-2023,F, Front desk manager,10-09-2023,72218
+98,Essy,Picopp,13-02-2023,F,Assistant Chef,18-02-2023,25476
+99,Lorna,Tithecote,06-03-2023,F,Surveyor,12-04-2023,9073
+100,Fidole,Blaydon,21-05-2023,M, Front desk manager,13-07-2023,15654

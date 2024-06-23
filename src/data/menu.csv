@@ -1,0 +1,31 @@
+id,name,description,price,category
+1,Spaghetti Bolognese,Classic Italian pasta with meat sauce,14,Main Course
+2,Caprese Salad,"Fresh mozzarella, tomatoes and basil with balsamic glaze",8,Appetizer
+3,Chocolate Mousse,Rich and velvety chocolate mousse,10,Dessert
+4,Chicken Parmesan,Breaded chicken topped with marinara and melted cheese,16,Main Course
+5,Bruschetta,"Toasted bread topped with diced tomatoes, garlic and basil",7,Appetizer
+6,Lemon Sorbet,Refreshing lemon-flavored sorbet,8,Dessert
+7,Grilled Steak,Juicy grilled steak with garlic butter,18,Main Course
+8,Spinach Artichoke Dip,Creamy spinach and artichoke dip with tortilla chips,9,Appetizer
+9,Apple Crisp,Warm apple crisp with cinnamon and a crunchy topping,12,Dessert
+10,Chicken Caesar Wrap,Grilled chicken romaine lettuce and caesar dressing in a wrap,11,Main Course
+11,Stuffed Mushrooms,Mushroom caps stuffed with herbs and breadcrumbs,8,Appetizer
+12,Blueberry Cheesecake,Rich cheesecake with blueberry topping,14,Dessert
+13,Shrimp Scampi,Shrimp sauted in garlic butter and white wine,15,Main Course
+14,Loaded Potato Skins,"Potato skins filled with cheese, bacon and sour cream",10,Appetizer
+15,Mango Sorbet,Sweet and tangy mango-flavored sorbet,9,Dessert
+16,Vegetarian Stir-Fry,Assorted vegetables stir-fried in a savory sauce,13,Main Course
+17,Cheese Platter,Assorted cheeses with crackers and fruit,16,Appetizer
+18,Tiramisu,"Italian coffee-flavored dessert, layered with mascarpone cheese",10,Dessert
+19,Chicken Alfredo Pizza,"Pizza with Alfredo sauce, grilled chicken and mozzarella",12,Main Course
+20,Crispy Calamari,Deep-fried calamari rings with marinara sauce,14,Appetizer
+21,Raspberry Sorbet,Sweet and tart raspberry-flavored sorbet,8,Dessert
+22,Beef Burrito,"Spicy beef, rice,beans and cheese in a tortilla",12,Main Course
+23,Guacamole and Chips,Fresh guacamole served with crispy tortilla chips,9,Appetizer
+24,Pumpkin Pie,Traditional pumpkin pie with a flaky crust,11,Dessert
+25,Salmon with Lemon Dill Sauce,Grilled salmon with a zesty lemon dill sauce,17,Main Course
+26,Caprese Bruschetta,"Toasted bread with tomato, mozzarella and basil",8,Appetizer
+27,Chocolate Fondue,Melted chocolate for dipping fruits and treats,10,Dessert
+28,Chicken Teriyaki Bowl,"Grilled chicken, vegetables and teriyaki sauce over rice",13,Main Course
+29,Stuffed Jalapeños,Jalapeano peppers stuffed with cream cheese and wrapped in bacon,9,Appetizer
+30,Strawberry Shortcake,Fresh strawberries and whipped cream on a light sponge cake,12,Dessert

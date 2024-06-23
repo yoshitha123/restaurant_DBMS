@@ -1,0 +1,51 @@
+id,name,category,quantity,unit_of_measurement,purchase_price,sales_price,reorder_level,supplier_name,expiration_date,last_updated,menu_item_inventory
+1,Wheat Flour,Grains,1000,lbs,2,4,200,ABC Suppliers,30-06-2024,09-12-2023 08:15,1
+2,Tomatoes,Vegetables,500,units,1,2,100,Fresh Farms,15-05-2024,09-12-2023 08:17,5
+3,Chicken Breast,Meat,300,lbs,5,8,50,Meat Master,20-04-2024,09-12-2023 08:19,4
+4,Milk,Dairy,200,gallons,3,5,30,Dairy Delights,01-05-2024,09-12-2023 08:21,9
+5,Eggs,Dairy,400,dozen,1,2,50,Eggcellent Farms,10-04-2024,09-12-2023 08:23,12
+6,Sugar,Sweeteners,800,lbs,1,3,100,Sweet Suppliers,15-07-2024,09-12-2023 08:25,6
+7,Coffee Beans,Beverages,150,lbs,6,10,30,Coffee Co.,25-03-2024,09-12-2023 08:27,27
+8,Bananas,Fruits,300,units,2,4,50,Fresh Fruits,05-04-2024,09-12-2023 08:29,15
+9,Cooking Oil,Condiments,200,liters,4,7,40,Oil Oils,10-06-2024,09-12-2023 08:31,8
+10,Cheese,Dairy,250,lbs,4,6,50,Cheese Factory,30-05-2024,09-12-2023 08:34,14
+11,Rice,Grains,700,lbs,3,5,150,Rice World,01-08-2024,09-12-2023 08:36,10
+12,Potatoes,Vegetables,400,lbs,2,3,80,Farm Fresh,15-05-2024,09-12-2023 08:38,22
+13,Beef,Meat,200,lbs,6,10,40,Premium Meats,20-04-2024,09-12-2023 08:40,7
+14,Orange Juice,Beverages,100,gallons,4,6,30,Juice Co.,01-05-2024,09-12-2023 08:42,28
+15,Apples,Fruits,350,units,3,5,60,Fresh Fruits,01-07-2024,09-12-2023 08:45,15
+16,Salt,Condiments,300,lbs,1,2,70,Salty Supplies,15-06-2024,09-12-2023 08:47,17
+17,Tea Bags,Beverages,250,units,3,5,50,Tea Time,25-05-2024,09-12-2023 08:49,27
+18,Broccoli,Vegetables,150,lbs,2,3,30,Green Greens,30-04-2024,09-12-2023 08:51,30
+19,Pork,Meat,180,lbs,5,8,40,Porky Farms,15-08-2024,09-12-2023 08:53,13
+20,Yogurt,Dairy,120,lbs,4,6,30,Yogurt Delights,20-05-2024,09-12-2023 08:56,19
+21,Cereal,Grains,180,lbs,3,5,40,Cereal World,10-04-2024,09-12-2023 08:58,1
+22,Lettuce,Vegetables,100,lbs,2,3,20,Leafy Farms,05-06-2024,09-12-2023 09:00,5
+23,Salmon,Seafood,90,lbs,7,12,30,Ocean Harvest,30-05-2024,09-12-2023 09:02,25
+24,Honey,Sweeteners,80,lbs,5,8,20,Golden Honey,10-07-2024,09-12-2023 09:05,6
+25,Lemon,Fruits,200,units,1,2,40,Citrus Farms,01-05-2024,09-12-2023 09:07,22
+26,Vinegar,Condiments,120,liters,2,4,30,Vinegar Co.,20-06-2024,09-12-2023 09:09,8
+27,Bread,Bakery,300,loaves,2,4,80,Bakery Bliss,15-04-2024,09-12-2023 09:11,30
+28,Shrimp,Seafood,150,lbs,8,12,40,Shoreline Seafood,01-07-2024,09-12-2023 09:13,13
+29,Ice Cream,Desserts,100,pints,5,8,30,Sweet Scoops,10-05-2024,09-12-2023 09:16,18
+30,Pasta,Grains,250,lbs,3,5,60,Pasta Paradise,25-06-2024,09-12-2023 09:18,1
+31,Carrots,Vegetables,120,lbs,1,2,30,Carrot Haven,15-05-2024,09-12-2023 09:20,5
+32,Chicken Wings,Meat,180,lbs,4,7,40,Wing World,10-07-2024,09-12-2023 09:22,4
+33,Mangoes,Fruits,80,units,2,3,20,Mango Mania,05-06-2024,09-12-2023 09:25,15
+34,Mustard,Condiments,50,bottles,2,3,10,Mustard Magic,20-04-2024,09-12-2023 09:27,8
+35,Tilapia,Seafood,90,lbs,6,10,30,Fresh Catch,15-06-2024,09-12-2023 09:29,13
+36,Syrup,Sweeteners,70,bottles,3,5,20,Sweet Syrups,01-08-2024,09-12-2023 09:31,6
+37,Grapes,Fruits,150,lbs,4,6,30,Vineyard Visions,25-05-2024,09-12-2023 09:33,15
+38,Hot Sauce,Condiments,60,bottles,2,3,15,Spicy Sensations,10-05-2024,09-12-2023 09:36,8
+39,Ice,Beverages,200,lbs,1,2,50,Frozen Delights,20-06-2024,09-12-2023 09:38,27
+40,Cucumbers,Vegetables,100,lbs,1,2,20,Cucumber Farm,05-07-2024,09-12-2023 09:40,5
+41,Turkey,Meat,120,lbs,5,8,30,Turkey Time,10-06-2024,09-12-2023 09:42,4
+42,Pineapple Juice,Beverages,80,gallons,4,6,20,Tropical Juices,15-05-2024,09-12-2023 09:45,27
+43,Pepper,Condiments,50,units,1,2,15,Pepper Palace,01-07-2024,09-12-2023 09:47,17
+44,Cod,Seafood,70,lbs,7,12,20,Deep Blue Seafoods,15-06-2024,09-12-2023 09:49,25
+45,Maple Syrup,Sweeteners,60,bottles,5,8,15,Maple Magic,01-08-2024,09-12-2023 09:51,6
+46,Pears,Fruits,90,units,3,5,20,Pear Paradise,15-07-2024,09-12-2023 09:53,15
+47,Peanut Butter,Condiments,80,jars,3,5,25,Peanut Bliss,30-06-2024,09-12-2023 09:56,8
+48,Tuna,Seafood,100,lbs,6,10,30,Ocean Tides,05-05-2024,09-12-2023 09:58,25
+49,Brownies,Desserts,50,boxes,4,6,15,Sweet Treats,20-07-2024,09-12-2023 10:00,29
+50,Cabbage,Vegetables,70,lbs,2,,,,,,

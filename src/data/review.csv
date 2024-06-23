@@ -1,0 +1,186 @@
+id,customer_id,item_id,rating,comment
+1,7,1,5,Spaghetti Bolognese was fantastic! The meat sauce was rich and flavorful.
+2,15,2,4,"Caprese Salad was fresh and delightful. The combination of mozzarella,tomatoes,and basil was perfect."
+3,23,3,5,"Chocolate Mousse was heavenly! Rich and velvety,a true indulgence."
+4,11,4,4,Chicken Parmesan was a tasty delight. The marinara and melted cheese complemented the breaded chicken well.
+5,4,5,5,"Bruschetta was amazing! The diced tomatoes,garlic,and basil on toasted bread were a perfect appetizer."
+6,8,6,3,"Lemon Sorbet was refreshing,but a bit too tangy for my liking."
+7,2,7,5,Grilled Steak was cooked to perfection. The garlic butter added a nice flavor to the juicy steak.
+8,6,8,4,Spinach Artichoke Dip was creamy and delicious. A great starter with tortilla chips.
+9,19,9,5,Apple Crisp was a warm and comforting dessert. The cinnamon and crunchy topping were delightful.
+10,12,10,4,Chicken Caesar Wrap was a solid choice. The grilled chicken and Caesar dressing in a wrap worked well together.
+11,28,11,3,Stuffed Mushrooms were okay. The herbs and breadcrumbs didn't stand out as much as I hoped.
+12,14,12,5,Blueberry Cheesecake was outstanding! The rich cheesecake with blueberry topping was a perfect dessert.
+13,5,13,4,Shrimp Scampi was delightful. The shrimp sautéed in garlic butter and white wine were flavorful.
+14,17,14,4,"Loaded Potato Skins were a good appetizer. The combination of cheese,bacon,and sour cream worked well."
+15,9,15,3,"Mango Sorbet was a bit too sweet for my taste,but still enjoyable."
+16,22,16,5,Vegetarian Stir-Fry was a delightful main course. The assorted vegetables stir-fried in a savory sauce were fantastic.
+17,30,17,4,Cheese Platter was a nice mix of assorted cheeses with crackers and fruit.
+18,26,18,5,Tiramisu was heavenly! The Italian coffee-flavored dessert layered with mascarpone cheese was a delight.
+19,1,19,4,"Chicken Alfredo Pizza was tasty. The Alfredo sauce,grilled chicken,and mozzarella worked well together."
+20,3,20,3,"Crispy Calamari was good,but a bit too oily for my liking."
+21,27,21,5,Raspberry Sorbet had a nice balance of sweet and tart flavors.
+22,16,22,4,"Beef Burrito was a flavorful choice. The spicy beef,rice,beans,and cheese in a tortilla were satisfying."
+23,20,23,5,Guacamole and Chips were excellent. The fresh guacamole with crispy tortilla chips was a perfect appetizer.
+24,18,24,4,Pumpkin Pie was a traditional and comforting dessert with a flaky crust.
+25,10,25,5,Salmon with Lemon Dill Sauce was perfect. The grilled salmon with a zesty lemon dill sauce was exceptional.
+26,24,26,4,"Caprese Bruschetta was a refreshing appetizer. The toasted bread with tomato,mozzarella,and basil worked well together."
+27,29,27,5,Chocolate Fondue was a delightful treat. The melted chocolate for dipping fruits and treats was a hit.
+28,13,28,4,"Chicken Teriyaki Bowl was a satisfying meal. The grilled chicken,vegetables,and teriyaki sauce over rice were flavorful."
+29,25,29,3,Stuffed Jalapeños lacked flavor. The jalapeño peppers stuffed with cream cheese and wrapped in bacon were underwhelming.
+30,21,30,5,Strawberry Shortcake was a sweet ending. Fresh strawberries and whipped cream on a light sponge cake were delicious.
+31,9,1,4,"Spaghetti Bolognese was delicious,but the portion size could be a bit larger."
+32,14,2,5,"Caprese Salad was divine! The freshness of the mozzarella,tomatoes,and basil shone through."
+33,27,3,3,"Chocolate Mousse was good,but not as rich as expected. Could use more chocolate flavor."
+34,5,4,4,Chicken Parmesan was a solid choice. The marinara sauce added a nice kick.
+35,11,5,4,Bruschetta was a great appetizer. The combination of diced tomatoes and garlic was tasty.
+36,19,6,2,Lemon Sorbet was too tangy for my liking. Not my favorite dessert.
+37,6,7,5,Grilled Steak was outstanding! The garlic butter added a perfect touch to the juicy steak.
+38,2,8,3,Spinach Artichoke Dip was okay. Expected more flavor.
+39,23,9,5,Apple Crisp was heavenly! The warm apple with cinnamon was delightful.
+40,30,10,4,"Chicken Caesar Wrap was good,but the Caesar dressing was a bit overpowering."
+41,7,11,5,Stuffed Mushrooms were fantastic! The herbs and breadcrumbs were well-balanced.
+42,1,12,4,Blueberry Cheesecake was rich and satisfying. A great dessert choice.
+43,18,13,3,Shrimp Scampi was decent. Expected a bit more flavor.
+44,22,14,5,"Loaded Potato Skins were a hit! Perfect combination of cheese,bacon,and sour cream."
+45,12,15,4,Mango Sorbet was a refreshing palate cleanser. Enjoyed the sweet and tangy flavors.
+46,5,16,5,Vegetarian Stir-Fry was excellent! The savory sauce enhanced the flavor of the assorted vegetables.
+47,17,17,3,Cheese Platter was average. Expected a bit more variety.
+48,28,18,5,Tiramisu was divine! The layers of coffee-flavored dessert with mascarpone cheese were perfect.
+49,15,19,4,"Chicken Alfredo Pizza was tasty. The combination of Alfredo sauce,grilled chicken,and mozzarella was delightful."
+50,10,20,3,"Crispy Calamari was good,but a bit too oily for my liking."
+51,25,21,5,Raspberry Sorbet had a nice balance of sweet and tart flavors.
+52,9,22,4,"Beef Burrito was a flavorful choice. The spicy beef,rice,beans,and cheese in a tortilla were satisfying."
+53,3,23,5,Guacamole and Chips were excellent. The fresh guacamole with crispy tortilla chips was a perfect appetizer.
+54,26,24,4,Pumpkin Pie was a traditional and comforting dessert with a flaky crust.
+55,14,25,5,Salmon with Lemon Dill Sauce was perfect. The grilled salmon with a zesty lemon dill sauce was exceptional.
+56,6,26,4,"Caprese Bruschetta was a refreshing appetizer. The toasted bread with tomato,mozzarella,and basil worked well together."
+57,1,27,5,Chocolate Fondue was a delightful treat. The melted chocolate for dipping fruits and treats was a hit.
+58,29,28,4,"Chicken Teriyaki Bowl was a satisfying meal. The grilled chicken,vegetables,and teriyaki sauce over rice were flavorful."
+59,20,29,3,Stuffed Jalapeños lacked flavor. The jalapeño peppers stuffed with cream cheese and wrapped in bacon were underwhelming.
+60,16,30,5,Strawberry Shortcake was a sweet ending. Fresh strawberries and whipped cream on a light sponge cake were delicious.
+61,4,1,4,"Spaghetti Bolognese was delicious,but the portion size could be a bit larger."
+62,8,2,5,"Caprese Salad was divine! The freshness of the mozzarella,tomatoes,and basil shone through."
+63,16,3,3,"Chocolate Mousse was good,but not as rich as expected. Could use more chocolate flavor."
+64,11,4,4,Chicken Parmesan was a solid choice. The marinara sauce added a nice kick.
+65,27,5,4,Bruschetta was a great appetizer. The combination of diced tomatoes and garlic was tasty.
+66,23,6,2,Lemon Sorbet was too tangy for my liking. Not my favorite dessert.
+67,5,7,5,Grilled Steak was outstanding! The garlic butter added a perfect touch to the juicy steak.
+68,21,8,3,Spinach Artichoke Dip was okay. Expected more flavor.
+69,12,9,5,Apple Crisp was heavenly! The warm apple with cinnamon was delightful.
+70,29,10,4,"Chicken Caesar Wrap was good,but the Caesar dressing was a bit overpowering."
+71,7,11,5,Stuffed Mushrooms were fantastic! The herbs and breadcrumbs were well-balanced.
+72,2,12,4,Blueberry Cheesecake was rich and satisfying. A great dessert choice.
+73,18,13,3,Shrimp Scampi was decent. Expected a bit more flavor.
+74,24,14,5,"Loaded Potato Skins were a hit! Perfect combination of cheese,bacon,and sour cream."
+75,10,15,4,Mango Sorbet was a refreshing palate cleanser. Enjoyed the sweet and tangy flavors.
+76,14,16,5,Vegetarian Stir-Fry was excellent! The savory sauce enhanced the flavor of the assorted vegetables.
+77,27,17,3,Cheese Platter was average. Expected a bit more variety.
+78,25,18,5,Tiramisu was divine! The layers of coffee-flavored dessert with mascarpone cheese were perfect.
+79,9,19,4,"Chicken Alfredo Pizza was tasty. The combination of Alfredo sauce,grilled chicken,and mozzarella was delightful."
+80,3,20,3,"Crispy Calamari was good,but a bit too oily for my liking."
+81,15,21,5,Raspberry Sorbet had a nice balance of sweet and tart flavors.
+82,22,22,4,"Beef Burrito was a flavorful choice. The spicy beef,rice,beans,and cheese in a tortilla were satisfying."
+83,30,23,5,Guacamole and Chips were excellent. The fresh guacamole with crispy tortilla chips was a perfect appetizer.
+84,18,24,4,Pumpkin Pie was a traditional and comforting dessert with a flaky crust.
+85,10,25,5,Salmon with Lemon Dill Sauce was perfect. The grilled salmon with a zesty lemon dill sauce was exceptional.
+86,2,26,4,"Caprese Bruschetta was a refreshing appetizer. The toasted bread with tomato,mozzarella,and basil worked well together."
+87,29,27,5,Chocolate Fondue was a delightful treat. The melted chocolate for dipping fruits and treats was a hit.
+88,13,28,4,"Chicken Teriyaki Bowl was a satisfying meal. The grilled chicken,vegetables,and teriyaki sauce over rice were flavorful."
+89,25,29,3,Stuffed Jalapeños lacked flavor. The jalapeño peppers stuffed with cream cheese and wrapped in bacon were underwhelming.
+90,21,30,5,Strawberry Shortcake was a sweet ending. Fresh strawberries and whipped cream on a light sponge cake were delicious.
+91,9,1,4,"Spaghetti Bolognese was delicious,but the portion size could be a bit larger."
+92,14,2,5,"Caprese Salad was divine! The freshness of the mozzarella,tomatoes,and basil shone through."
+93,27,3,3,"Chocolate Mousse was good,but not as rich as expected. Could use more chocolate flavor."
+94,5,4,4,Chicken Parmesan was a solid choice. The marinara sauce added a nice kick.
+95,11,5,4,Bruschetta was a great appetizer. The combination of diced tomatoes and garlic was tasty.
+96,19,6,2,Lemon Sorbet was too tangy for my liking. Not my favorite dessert.
+97,7,1,4,"Spaghetti Bolognese was delicious,and the meat sauce had a perfect balance of flavors."
+98,16,2,5,"Caprese Salad was divine! The freshness of the mozzarella,tomatoes,and basil shone through."
+99,3,3,3,"Chocolate Mousse was good,but not as rich as expected. Could use more chocolate flavor."
+100,5,4,4,Chicken Parmesan was a solid choice. The marinara sauce added a nice kick.
+101,11,5,4,Bruschetta was a great appetizer. The combination of diced tomatoes and garlic was tasty.
+102,19,6,2,Lemon Sorbet was too tangy for my liking. Not my favorite dessert.
+103,7,7,5,Grilled Steak was outstanding! The garlic butter added a perfect touch to the juicy steak.
+104,2,8,4,Spinach Artichoke Dip was creamy and delicious. A great starter with tortilla chips.
+105,9,9,5,Apple Crisp was a warm and comforting dessert. The cinnamon and crunchy topping were delightful.
+106,30,10,4,Chicken Caesar Wrap was a solid choice. The grilled chicken and Caesar dressing in a wrap worked well together.
+107,11,11,3,Stuffed Mushrooms were okay. The herbs and breadcrumbs didn't stand out as much as I hoped.
+108,14,12,5,Blueberry Cheesecake was outstanding! The rich cheesecake with blueberry topping was a perfect dessert.
+109,5,13,4,Shrimp Scampi was delightful. The shrimp sautéed in garlic butter and white wine were flavorful.
+110,17,14,4,"Loaded Potato Skins were a good appetizer. The combination of cheese,bacon,and sour cream worked well."
+111,9,15,3,"Mango Sorbet was a bit too sweet for my taste,but still enjoyable."
+112,22,16,5,Vegetarian Stir-Fry was a delightful main course. The assorted vegetables stir-fried in a savory sauce were fantastic.
+113,30,17,4,Cheese Platter was a nice mix of assorted cheeses with crackers and fruit.
+114,26,18,5,Tiramisu was heavenly! The Italian coffee-flavored dessert layered with mascarpone cheese was a delight.
+115,1,19,4,"Chicken Alfredo Pizza was tasty. The Alfredo sauce,grilled chicken,and mozzarella worked well together."
+116,3,20,3,"Crispy Calamari was good,but a bit too oily for my liking."
+117,27,21,5,Raspberry Sorbet had a nice balance of sweet and tart flavors.
+118,16,22,4,"Beef Burrito was a flavorful choice. The spicy beef,rice,beans,and cheese in a tortilla were satisfying."
+119,20,23,5,Guacamole and Chips were excellent. The fresh guacamole with crispy tortilla chips was a perfect appetizer.
+120,18,24,4,Pumpkin Pie was a traditional and comforting dessert with a flaky crust.
+121,10,25,5,Salmon with Lemon Dill Sauce was perfect. The grilled salmon with a zesty lemon dill sauce was exceptional.
+122,24,26,4,"Caprese Bruschetta was a refreshing appetizer. The toasted bread with tomato,mozzarella,and basil worked well together."
+123,29,27,5,Chocolate Fondue was a delightful treat. The melted chocolate for dipping fruits and treats was a hit.
+124,13,28,4,"Chicken Teriyaki Bowl was a satisfying meal. The grilled chicken,vegetables,and teriyaki sauce over rice were flavorful."
+125,25,29,3,Stuffed Jalapeños lacked flavor. The jalapeño peppers stuffed with cream cheese and wrapped in bacon were underwhelming.
+126,21,30,5,Strawberry Shortcake was a sweet ending. Fresh strawberries and whipped cream on a light sponge cake were delicious.
+127,9,1,4,"Spaghetti Bolognese was delicious,but the portion size could be a bit larger."
+128,14,2,5,"Caprese Salad was divine! The freshness of the mozzarella,tomatoes,and basil shone through."
+129,27,3,3,"Chocolate Mousse was good,but not as rich as expected. Could use more chocolate flavor."
+130,5,4,4,Chicken Parmesan was a solid choice. The marinara sauce added a nice kick.
+131,8,1,4,"Spaghetti Bolognese was delicious,and the meat sauce had a perfect balance of flavors."
+132,16,2,5,"Caprese Salad was divine! The freshness of the mozzarella,tomatoes,and basil shone through."
+133,3,3,3,"Chocolate Mousse was good,but not as rich as expected. Could use more chocolate flavor."
+134,5,4,4,Chicken Parmesan was a solid choice. The marinara sauce added a nice kick.
+135,11,5,4,Bruschetta was a great appetizer. The combination of diced tomatoes and garlic was tasty.
+136,19,6,2,Lemon Sorbet was too tangy for my liking. Not my favorite dessert.
+137,7,7,5,Grilled Steak was outstanding! The garlic butter added a perfect touch to the juicy steak.
+138,2,8,4,Spinach Artichoke Dip was creamy and delicious. A great starter with tortilla chips.
+139,9,9,5,Apple Crisp was a warm and comforting dessert. The cinnamon and crunchy topping were delightful.
+140,30,10,4,Chicken Caesar Wrap was a solid choice. The grilled chicken and Caesar dressing in a wrap worked well together.
+141,11,11,3,Stuffed Mushrooms were okay. The herbs and breadcrumbs didn't stand out as much as I hoped.
+142,14,12,5,Blueberry Cheesecake was outstanding! The rich cheesecake with blueberry topping was a perfect dessert.
+143,5,13,4,Shrimp Scampi was delightful. The shrimp sautéed in garlic butter and white wine were flavorful.
+144,17,14,4,"Loaded Potato Skins were a good appetizer. The combination of cheese,bacon,and sour cream worked well."
+145,9,15,3,"Mango Sorbet was a bit too sweet for my taste,but still enjoyable."
+146,22,16,5,Vegetarian Stir-Fry was a delightful main course. The assorted vegetables stir-fried in a savory sauce were fantastic.
+147,30,17,4,Cheese Platter was a nice mix of assorted cheeses with crackers and fruit.
+148,26,18,5,Tiramisu was heavenly! The Italian coffee-flavored dessert layered with mascarpone cheese was a delight.
+149,1,19,4,"Chicken Alfredo Pizza was tasty. The Alfredo sauce,grilled chicken,and mozzarella worked well together."
+150,3,20,3,"Crispy Calamari was good,but a bit too oily for my liking."
+151,27,21,5,Raspberry Sorbet had a nice balance of sweet and tart flavors.
+152,16,22,4,"Beef Burrito was a flavorful choice. The spicy beef,rice,beans,and cheese in a tortilla were satisfying."
+153,20,23,5,Guacamole and Chips were excellent. The fresh guacamole with crispy tortilla chips was a perfect appetizer.
+154,18,24,4,Pumpkin Pie was a traditional and comforting dessert with a flaky crust.
+155,10,25,5,Salmon with Lemon Dill Sauce was perfect. The grilled salmon with a zesty lemon dill sauce was exceptional.
+156,24,26,4,"Caprese Bruschetta was a refreshing appetizer. The toasted bread with tomato,mozzarella,and basil worked well together."
+157,29,27,5,Chocolate Fondue was a delightful treat. The melted chocolate for dipping fruits and treats was a hit.
+158,13,28,4,"Chicken Teriyaki Bowl was a satisfying meal. The grilled chicken,vegetables,and teriyaki sauce over rice were flavorful."
+159,25,29,3,Stuffed Jalapeños lacked flavor. The jalapeño peppers stuffed with cream cheese and wrapped in bacon were underwhelming.
+160,21,30,5,Strawberry Shortcake was a sweet ending. Fresh strawberries and whipped cream on a light sponge cake were delicious.
+161,9,1,4,"Spaghetti Bolognese was delicious,but the portion size could be a bit larger."
+162,14,2,5,"Caprese Salad was divine! The freshness of the mozzarella,tomatoes,and basil shone through."
+163,27,3,3,"Chocolate Mousse was good,but not as rich as expected. Could use more chocolate flavor."
+164,5,4,4,Chicken Parmesan was a solid choice. The marinara sauce added a nice kick.
+165,11,5,4,Bruschetta was a great appetizer. The combination of diced tomatoes and garlic was tasty.
+166,23,6,2,Lemon Sorbet was too tangy for my liking. Not my favorite dessert.
+167,5,7,5,Grilled Steak was outstanding! The garlic butter added a perfect touch to the juicy steak.
+168,21,8,3,Spinach Artichoke Dip was okay. Expected more flavor.
+169,12,9,5,Apple Crisp was heavenly! The warm apple with cinnamon was delightful.
+170,29,10,4,"Chicken Caesar Wrap was good,but the Caesar dressing was a bit overpowering."
+171,7,11,5,Stuffed Mushrooms were fantastic! The herbs and breadcrumbs were well-balanced.
+172,2,12,4,Blueberry Cheesecake was rich and satisfying. A great dessert choice.
+173,18,13,3,Shrimp Scampi was decent. Expected a bit more flavor.
+174,22,14,5,"Loaded Potato Skins were a hit! Perfect combination of cheese,bacon,and sour cream."
+175,12,15,4,Mango Sorbet was a refreshing palate cleanser. Enjoyed the sweet and tangy flavors.
+176,14,16,5,Vegetarian Stir-Fry was excellent! The savory sauce enhanced the flavor of the assorted vegetables.
+177,27,17,3,Cheese Platter was average. Expected a bit more variety.
+178,25,18,5,Tiramisu was divine! The layers of coffee-flavored dessert with mascarpone cheese were perfect.
+179,9,19,4,"Chicken Alfredo Pizza was tasty. The combination of Alfredo sauce,grilled chicken,and mozzarella was delightful."
+180,3,20,3,"Crispy Calamari was good,but a bit too oily for my liking."
+181,15,21,5,Raspberry Sorbet had a nice balance of sweet and tart flavors.
+182,22,22,4,"Beef Burrito was a flavorful choice. The spicy beef,rice,beans,and cheese in a tortilla were satisfying."
+183,30,23,5,Guacamole and Chips were excellent. The fresh guacamole with crispy tortilla chips was a perfect appetizer.
+184,18,24,4,Pumpkin Pie was a traditional and comforting dessert with a flaky crust.
+185,10,25,5,Salmon with Lemon Dill Sauce was perfect. The grilled salmon with a zesty lemon dill sauce was exceptional.

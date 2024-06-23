@@ -1,0 +1,251 @@
+house_no,street,city,state,postal_code,customer_id
+7,Mockingbird,Danbury,Connecticut,6816,1
+9,Iowa,Colorado Springs,Colorado,80910,2
+7160,Bonner,Las Vegas,Nevada,89135,3
+500,Hoffman,Lexington,Kentucky,40581,4
+41401,Melody,San Diego,California,92137,5
+23,Anniversary,Washington,District of Columbia,20540,6
+3798,Valley Edge,Tacoma,Washington,98447,7
+8,Amoth,Saint Petersburg,Florida,33742,8
+0,Roxbury,Arlington,Virginia,22225,9
+904,Anzinger,Roanoke,Virginia,24029,10
+88719,Mifflin,El Paso,Texas,79928,11
+366,Elka,Chicago,Illinois,60619,12
+850,Briar Crest,Austin,Texas,78749,13
+3,Oak Valley,Bronx,New York,10454,14
+37353,Haas,Pittsburgh,Pennsylvania,15215,15
+6,Mcbride,El Paso,Texas,79955,16
+706,Almo,Louisville,Kentucky,40233,17
+2441,Swallow,Brooklyn,New York,11247,18
+46,Elka,Saginaw,Michigan,48604,19
+4953,Armistice,Montgomery,Alabama,36109,20
+366,Merrick,Boca Raton,Florida,33487,21
+188,Sutherland,Lansing,Michigan,48912,22
+79,Autumn Leaf,Santa Barbara,California,93106,23
+6105,Jay,Fort Wayne,Indiana,46862,24
+622,Toban,El Paso,Texas,88553,25
+818,Sunfield,Atlanta,Georgia,30323,26
+9003,Buhler,Kansas City,Missouri,64190,27
+5,Little Fleur,Torrance,California,90505,28
+57626,Blue Bill Park,Bakersfield,California,93399,29
+190,Hauk,Boston,Massachusetts,2208,30
+45766,Westridge,New York City,New York,10019,31
+4,Warrior,Topeka,Kansas,66611,32
+85418,Colorado,Saint Louis,Missouri,63143,33
+98,Hintze,Sacramento,California,94263,34
+418,Lyons,Fayetteville,North Carolina,28314,35
+501,Sutherland,Lancaster,Pennsylvania,17622,36
+3877,Fieldstone,Oklahoma City,Oklahoma,73119,37
+2219,Mesta,Charlotte,North Carolina,28247,38
+23897,Hanover,Hicksville,New York,11854,39
+5225,Canary,Indianapolis,Indiana,46216,40
+5658,Hintze,San Rafael,California,94913,41
+7,Fair Oaks,Gaithersburg,Maryland,20883,42
+1,Talisman,Canton,Ohio,44705,43
+6103,Loeprich,Brooklyn,New York,11215,44
+499,Rigney,Los Angeles,California,90094,45
+6444,Randy,Newark,New Jersey,7195,46
+4,Ohio,Fort Collins,Colorado,80525,47
+8,Summer Ridge,San Bernardino,California,92415,48
+1485,Quincy,Topeka,Kansas,66617,49
+392,Hermina,Charlotte,North Carolina,28278,50
+5703,Kinsman,Monticello,Minnesota,55585,51
+58,Coolidge,Rockford,Illinois,61110,52
+53120,Graedel,White Plains,New York,10633,53
+7,Warbler,Fort Smith,Arkansas,72905,54
+1,Sundown,Huntsville,Alabama,35815,55
+395,Anthes,Washington,District of Columbia,20226,56
+623,Bashford,Norwalk,Connecticut,6859,57
+234,Ryan,Washington,District of Columbia,20088,58
+9,Corben,New York City,New York,10034,59
+62097,Rieder,Wilmington,Delaware,19810,60
+847,Swallow,Sarasota,Florida,34233,61
+35,Hanson,North Las Vegas,Nevada,89036,62
+201,Jenifer,Peoria,Illinois,61614,63
+84,Mitchell,Minneapolis,Minnesota,55417,64
+5942,Veith,Bloomington,Illinois,61709,65
+612,Kennedy,Columbus,Ohio,43226,66
+5,Thompson,Gaithersburg,Maryland,20883,67
+97,Straubel,Fort Myers,Florida,33994,68
+14,Eggendart,Johnstown,Pennsylvania,15906,69
+4,Goodland,Indianapolis,Indiana,46231,70
+7,Mariners Cove,Dallas,Texas,75367,71
+46288,Farragut,Waco,Texas,76705,72
+0,Monument,Silver Spring,Maryland,20904,73
+80,Russell,Youngstown,Ohio,44505,74
+34,Sherman,Pasadena,Texas,77505,75
+35,Lotheville,Columbia,South Carolina,29208,76
+49,Sauthoff,Portland,Oregon,97211,77
+152,Dayton,Trenton,New Jersey,8619,78
+71871,Park Meadow,Winston Salem,North Carolina,27157,79
+80312,Burning Wood,New York City,New York,10292,80
+76609,Arizona,Sacramento,California,94263,81
+60800,Forest,Sarasota,Florida,34238,82
+58,5th,Saint Louis,Missouri,63136,83
+787,Fieldstone,Washington,District of Columbia,20404,84
+71046,Summer Ridge,Topeka,Kansas,66629,85
+49043,Alpine,Greensboro,North Carolina,27409,86
+8684,Heffernan,Metairie,Louisiana,70005,87
+1043,Ludington,Lansing,Michigan,48930,88
+464,Truax,Birmingham,Alabama,35290,89
+4737,Burrows,Bridgeport,Connecticut,6673,90
+10,Lotheville,Galveston,Texas,77554,91
+2,Bartillon,Youngstown,Ohio,44505,92
+88807,Melby,Decatur,Georgia,30089,93
+86,Ohio,Los Angeles,California,90081,94
+42,Badeau,Dayton,Ohio,45490,95
+3,Bunting,Saint Joseph,Missouri,64504,96
+25740,Linden,Amarillo,Texas,79171,97
+2,Rigney,Pompano Beach,Florida,33064,98
+7855,Moose,Lake Charles,Louisiana,70607,99
+31,Heath,Fresno,California,93709,100
+336,West,Omaha,Nebraska,68164,101
+539,Mcbride,Durham,North Carolina,27705,102
+15,Cody,Indianapolis,Indiana,46278,103
+1,West,Pensacola,Florida,32575,104
+5,Daystar,Bridgeport,Connecticut,6606,105
+3467,Carberry,Greensboro,North Carolina,27455,106
+8,Dawn,Santa Fe,New Mexico,87505,107
+7609,Stoughton,Washington,District of Columbia,20557,108
+56470,Hauk,El Paso,Texas,88584,109
+807,Ryan,Oklahoma City,Oklahoma,73124,110
+575,Forster,North Little Rock,Arkansas,72199,111
+3521,Armistice,Buffalo,New York,14215,112
+1,Blue Bill Park,Canton,Ohio,44710,113
+2390,Eagan,Amarillo,Texas,79165,114
+345,Scott,Akron,Ohio,44315,115
+700,Leroy,Danbury,Connecticut,6816,116
+845,Lien,Charlotte,North Carolina,28210,117
+73099,Elgar,Atlanta,Georgia,30301,118
+4,Maywood,San Diego,California,92137,119
+98,Dryden,Juneau,Alaska,99812,120
+1,Declaration,Buffalo,New York,14276,121
+3095,East,Kansas City,Missouri,64109,122
+1328,Michigan,Mansfield,Ohio,44905,123
+20549,Northridge,Seattle,Washington,98175,124
+4450,Arapahoe,Washington,District of Columbia,20244,125
+476,La Follette,Cincinnati,Ohio,45249,126
+12,Menomonie,Houston,Texas,77299,127
+70,Troy,Cumming,Georgia,30130,128
+26977,Emmet,Topeka,Kansas,66629,129
+3736,Delaware,Richmond,Virginia,23293,130
+8802,Atwood,Kansas City,Missouri,64149,131
+535,Lillian,Wichita,Kansas,67260,132
+92571,Sheridan,Sacramento,California,94250,133
+4559,Basil,Los Angeles,California,90065,134
+567,Lunder,Monticello,Minnesota,55585,135
+72,Grover,Lake Charles,Louisiana,70607,136
+154,Mitchell,New York City,New York,10203,137
+821,Straubel,Cumming,Georgia,30130,138
+4,Northview,Silver Spring,Maryland,20918,139
+593,Parkside,Las Vegas,Nevada,89140,140
+30092,Westend,Tacoma,Washington,98411,141
+4079,Briar Crest,El Paso,Texas,88563,142
+0,Trailsway,New Orleans,Louisiana,70124,143
+1774,Roxbury,Sacramento,California,95894,144
+63,Morningstar,Washington,District of Columbia,20226,145
+2,Northland,Grand Rapids,Michigan,49505,146
+6818,Hintze,San Jose,California,95160,147
+3,Scoville,Young America,Minnesota,55573,148
+99,Lillian,Cleveland,Ohio,44130,149
+69,Loftsgordon,Huntington,West Virginia,25716,150
+30,Esch,Shreveport,Louisiana,71166,151
+59394,Florence,Clearwater,Florida,33758,152
+105,Carberry,Kansas City,Missouri,64199,153
+34,Knutson,Wilmington,Delaware,19886,154
+38621,Valley Edge,College Station,Texas,77844,155
+241,Buell,Birmingham,Alabama,35205,156
+36,Linden,Los Angeles,California,90087,157
+7242,Pleasure,Wichita,Kansas,67205,158
+655,Kenwood,Portland,Oregon,97221,159
+6,Petterle,Vancouver,Washington,98682,160
+9,Anniversary,Houston,Texas,77271,161
+364,Thompson,Joliet,Illinois,60435,162
+25,Carey,Hartford,Connecticut,6152,163
+48,Heffernan,Phoenix,Arizona,85099,164
+5588,Chive,Decatur,Illinois,62525,165
+2,Cordelia,Houston,Texas,77035,166
+160,Longview,Chattanooga,Tennessee,37416,167
+3343,Forest,Salt Lake City,Utah,84199,168
+89,Springview,Amarillo,Texas,79116,169
+63,Springview,Tucson,Arizona,85743,170
+407,New Castle,Denton,Texas,76210,171
+3,Bluejay,New Orleans,Louisiana,70142,172
+72755,Holy Cross,Dearborn,Michigan,48126,173
+877,Surrey,Gulfport,Mississippi,39505,174
+55,Montana,Tacoma,Washington,98424,175
+8,Ridge Oak,Phoenix,Arizona,85099,176
+33453,Forest Run,Albuquerque,New Mexico,87105,177
+17110,Roxbury,Scranton,Pennsylvania,18505,178
+9,Aberg,San Francisco,California,94159,179
+509,Aberg,Dayton,Ohio,45414,180
+97,Grayhawk,Tampa,Florida,33615,181
+819,Logan,Toledo,Ohio,43656,182
+143,Memorial,Des Moines,Iowa,50393,183
+569,Lakewood,San Francisco,California,94154,184
+2,Bayside,Saint Paul,Minnesota,55103,185
+67537,Brentwood,Washington,District of Columbia,20525,186
+1,Buhler,Cincinnati,Ohio,45249,187
+8619,Garrison,San Antonio,Texas,78240,188
+282,Duke,Albany,New York,12222,189
+136,Sycamore,Flushing,New York,11388,190
+4,Basil,Raleigh,North Carolina,27610,191
+2,Express,Amarillo,Texas,79105,192
+983,Reindahl,Tulsa,Oklahoma,74184,193
+96313,Northview,Philadelphia,Pennsylvania,19146,194
+703,Esch,Marietta,Georgia,30066,195
+179,Saint Paul,Alexandria,Virginia,22313,196
+16,Hoffman,Vero Beach,Florida,32969,197
+51,Steensland,Young America,Minnesota,55557,198
+21444,Oakridge,Bryan,Texas,77806,199
+7331,Green Ridge,Tampa,Florida,33615,200
+597,Stang,Springfield,Illinois,62794,201
+8840,Walton,Jacksonville,Florida,32209,202
+710,Hagan,Macon,Georgia,31210,203
+8810,Pawling,Mobile,Alabama,36622,204
+4,Memorial,Miami,Florida,33169,205
+87384,Union,Canton,Ohio,44760,206
+246,Sunnyside,Tampa,Florida,33686,207
+5,Daystar,Decatur,Georgia,30033,208
+8526,Helena,Fort Lauderdale,Florida,33305,209
+967,Golden Leaf,Edmond,Oklahoma,73034,210
+72,Main,San Antonio,Texas,78285,211
+58668,Buhler,Fayetteville,North Carolina,28314,212
+946,Summit,Lake Charles,Louisiana,70607,213
+3272,Farwell,New Haven,Connecticut,6538,214
+99118,Main,Charleston,West Virginia,25356,215
+1426,Huxley,Houston,Texas,77223,216
+9,Huxley,Seattle,Washington,98175,217
+9735,Fairview,Hartford,Connecticut,6183,218
+6941,Mendota,San Jose,California,95113,219
+61745,Nobel,Fort Worth,Texas,76134,220
+35,Sutteridge,Louisville,Kentucky,40205,221
+7,Oneill,Toledo,Ohio,43610,222
+127,Manufacturers,Charlotte,North Carolina,28272,223
+664,Artisan,Washington,District of Columbia,20551,224
+7968,Debs,Omaha,Nebraska,68144,225
+122,Ridgeway,Honolulu,Hawaii,96840,226
+41,Sheridan,Saint Paul,Minnesota,55166,227
+84,Dixon,Des Moines,Iowa,50347,228
+312,Hoard,Louisville,Kentucky,40205,229
+185,Cascade,Portland,Oregon,97201,230
+52,Namekagon,Los Angeles,California,90020,231
+765,Buell,Providence,Rhode Island,2912,232
+168,Lawn,Tacoma,Washington,98464,233
+2,Springview,Carson City,Nevada,89706,234
+42,Eagle Crest,Baton Rouge,Louisiana,70894,235
+22034,Memorial,Englewood,Colorado,80150,236
+28,Valley Edge,Stamford,Connecticut,6912,237
+934,3rd,Zephyrhills,Florida,33543,238
+3167,Heath,Orlando,Florida,32819,239
+1,Gale,Cleveland,Ohio,44105,240
+8080,Caliangt,Torrance,California,90510,241
+19943,Thackeray,Wilmington,Delaware,19810,242
+3762,Lakewood,Fredericksburg,Virginia,22405,243
+6,Manitowish,Scottsdale,Arizona,85271,244
+21041,Northview,Tacoma,Washington,98447,245
+5113,Bonner,Washington,District of Columbia,20062,246
+84,8th,San Francisco,California,94142,247
+9,Lakewood,Wichita,Kansas,67210,248
+70,Norway Maple,Denver,Colorado,80209,249
+62640,Grayhawk,Cleveland,Ohio,44130,250
